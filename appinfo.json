@@ -1,0 +1,29 @@
+{
+    "appKeys": {
+        "KEY_APP": 1,
+        "KEY_CONNECTED": 2,
+        "KEY_HEARD": 3,
+        "KEY_LED": 4,
+        "KEY_LED_OFF": 6,
+        "KEY_LED_ON": 5,
+        "KEY_NAME": 0,
+        "KEY_NOTIFY": 7
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "matt@mrkunkel.com",
+    "longName": "HeadRest",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "HeadRest",
+    "uuid": "7c956ea9-1eff-4c83-b62a-2f4f9ebb5d28",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
